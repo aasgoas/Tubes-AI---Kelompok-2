@@ -1,0 +1,3 @@
+Clc
+clear all 
+XYkota = [];
